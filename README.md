@@ -1,4 +1,4 @@
-# silenthash Briefly:
+# silenthash Briefly by "obj51" FinTech development team.
 
 #SILENTHASH aka SILENT-HASH (NFC based _but_not_only_ cryptocurrency multiwallet)
 
