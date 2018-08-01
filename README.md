@@ -1,8 +1,8 @@
-# silenthash
+# silenthash Briefly:
 
-Briefly: #SILENT-HASH*/#SILENTHASH* (NFC based _but_not_only_ cryptocurrency multiwallet)
+#SILENTHASH aka SILENT-HASH (NFC based _but_not_only_ cryptocurrency multiwallet)
 
-* - code name during process developing and implementation
+silenthash - the code name during process developing and implementation
 
 Brief idea:
 
