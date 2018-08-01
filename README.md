@@ -2,7 +2,7 @@
 
 #SILENTHASH aka SILENT-HASH (NFC based _but_not_only_ cryptocurrency multiwallet)
 
-silenthash - the code name during product development process and implementation on infrustructure of our " telco and financial partners " 
+silenthash - the code name of our service during product development process and implementation on infrustructure of our " telco and financial partners " 
 
 Brief idea:
 
